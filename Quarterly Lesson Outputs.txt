@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head><title>Lesson Outputs</title>
+<link rel="stylesheet" href="EP Ver. 2(5).css" text="text/css">
+</head>
+<body bgcolor="Pink">
+<h2>LESSON OUTPUTS</h2>
+<p>
+First quarter has ended. Second quarter is now nearing to its end.<br>
+Clicking the <b>Lesson Outputs Folder</b> below will redirect you to a place where you can<br>
+access the notepad and browser outputs for the two quarters.<br><br>
+</p>
+<p>
+Click the text under this!<br>
+<a href="https://drive.google.com/drive/folders/13kmXnw3-m2EujgEA9IKQHioRyLvn0H4M?fbclid=IwZXh0bgNhZW0CMTEAAR2LRtcdUH75MNuahJIWSt_9-vqAIdAC_eDLZ3yC8hyHn8ckxwPiNIsbryw_aem_2parAFFgTzS_1LAT_iVU1w">
+<b>Lesson Outputs Folder</b></a><br><br>
+<i>Thank you!</i>
+</p>
+<p class="button2">
+<a href="Quarterly Activities.html">QUARTERLY ACTIVITIES</a>
+</p>
+<p class="button">
+<a href="Quarterly Reflections.html">QUARTERLY REFLECTIONS</a>
+</p>
+</body>
+</html>
+
